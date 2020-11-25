@@ -1,0 +1,7 @@
+version: 1
+repository:
+  tier: tier_1
+  owner: doms_team
+  tags:
+  - key: version
+    value: v1.0.0
